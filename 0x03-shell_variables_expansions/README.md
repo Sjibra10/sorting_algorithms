@@ -1,1 +1,0 @@
- rereadme me for shell 
